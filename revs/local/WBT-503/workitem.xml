@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="author">admin</field>
+    <field id="created">2015-05-25 13:33:30.731 +0200</field>
+    <field id="priority">50.0</field>
+    <field id="severity">should_have</field>
+    <field id="status">draft</field>
+    <field id="title">New Mega Requirement</field>
+    <field id="type">systemRequirement</field>
+</work-item>

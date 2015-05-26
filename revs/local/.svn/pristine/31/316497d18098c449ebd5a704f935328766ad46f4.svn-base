@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<work-item>
+    <field id="assignee">globalU</field>
+    <field id="author">admin</field>
+    <field id="created">2015-05-25 15:52:20.374 +0200</field>
+    <field id="linkedRevisions">
+        <list>
+            <struct>
+                <item id="repositoryName">WidgetsByTags:ea_latest</item>
+                <item id="revision">http://ea-latest.labs.polarion.com/polarion/svnwebclient/fileContent.jsp?url=Sandbox%2FCustomMacros%2F.polarion%2Ftracker%2Fworkitems%2F500-599%2FCM-501%2Fworkitem.xml&amp;crev=28864</item>
+            </struct>
+            <struct>
+                <item id="repositoryName">WidgetsByTags:ea_latest</item>
+                <item id="revision">29022</item>
+            </struct>
+            <struct>
+                <item id="repositoryName">WidgetsByTags:lukysRepo</item>
+                <item id="revision">2</item>
+            </struct>
+        </list>
+    </field>
+    <field id="priority">50.0</field>
+    <field id="severity">normal</field>
+    <field id="status">open</field>
+    <field id="title">BZM BZM</field>
+    <field id="type">issue</field>
+</work-item>
