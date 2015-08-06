@@ -11,7 +11,7 @@
         </list>
     </field>
     <field id="priority">50.0</field>
-    <field id="severity">normal</field>
+    <field id="severity">High</field>
     <field id="status">open</field>
     <field id="title">Implement: WorkPackage1 task2</field>
     <field id="type">task</field>
